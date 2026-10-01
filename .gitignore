@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .vercel
 .cursor
+
+# Local plugin settings (contain API tokens)
+.claude/*.local.md
